@@ -1,0 +1,18 @@
+{
+  "name": "metacoin",
+  "version": "0.0.1",
+  "description": "Example tests sans Truffle tests",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "truffle-contract": "^2.0.0",
+    "web3": "0.20.1"
+  },
+  "devDependencies": {
+    "ethereumjs-testrpc": "^2.2.4",
+    "mocha": "^3.2.0",
+    "truffle": "3.4.5"
+  }
+}
