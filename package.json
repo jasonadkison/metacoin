@@ -11,6 +11,7 @@
     "web3": "^0.20.1"
   },
   "devDependencies": {
+    "bip39": "2.3.0",
     "ethereumjs-testrpc": "^2.2.7",
     "mocha": "^3.5.0",
     "truffle": "^3.4.5"
